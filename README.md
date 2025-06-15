@@ -16,7 +16,7 @@ It includes:
 
 ```bash
 git clone https://github.com/johnvouch/lyfegen-ai-trial.git
-cd document-ai-mvp
+cd lyfegen-ai-trial
 ```
 
 ### 2. Install dependencies
